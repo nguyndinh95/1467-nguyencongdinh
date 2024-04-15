@@ -1,7 +1,4 @@
-# 1467-nguyencongdinh
 # Xin chào, Tôi là Nguyen Cong Dinh! 👋
-
-![Banner](link_to_banner_image)
 
 Tôi là một lập trình viên đam mê và một người yêu thích công nghệ. Tôi thích khám phá và học hỏi những điều mới mẻ trong lĩnh vực công nghệ thông tin.
 
@@ -30,9 +27,7 @@ Hiện tại, tôi đang tập trung vào việc nâng cao kỹ năng lập trì
 
 Nếu bạn muốn kết nối với tôi hoặc có bất kỳ câu hỏi nào, bạn có thể liên hệ qua:
 
-- Email: example@example.com
-- LinkedIn: [Nguyen Cong Dinh](link_to_linkedin_profile)
-- Twitter: [@nguyencongdinh](link_to_twitter_profile)
+- Email: nguyencongdinh2303@example.com
 
 ## 💬 Sự đóng góp
 
